@@ -16,5 +16,6 @@
 
 Here is the UML diagram:
 -
-
 <br>
+
+![UML Diagram](FilghtManageUML.png)
